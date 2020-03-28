@@ -1,2 +1,6 @@
 # ML-Journey
-Machine Learning Studying.
+Machine Learning Studying. 
+
+Member: 
+- Bảo Nguyễn
+- Khoa Kim
